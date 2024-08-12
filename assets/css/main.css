@@ -629,6 +629,8 @@ input, select, textarea {
 
 		.icon.solid:before {
 			font-weight: 900;
+            line-height: 1;
+            font-size-adjust: 2;
 		}
 
 		.icon.brands:before {
